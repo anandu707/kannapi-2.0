@@ -1,14 +1,12 @@
 let handler  = async (m, { conn, usedPrefix: _p }) => {
   conn.reply(m.chat, `
-╠═〘 കണ്ണാപി ബോട്ട് 2.0 〙 ═
+╠═〘 Fidha Fathima 〙 ═
 ╠➥  Made in javascript via NodeJs
 ╠➥ Rec: ʀᴀɴᴊɪᴛʜ [ᴍʀ.ʀᴀᴠᴀɴᴀɴ]
 ╠➥ Script: ᴍʀ.ʀᴀᴠᴀɴᴀɴ
-║
-╠➥ YouTube: https://youtube.com/c/MrRavanan
-╠➥ instagram: https://instagram.com/__mr_ravanan?igshid=9opwnwh7xvtm
-╠➥ YouTube 2nd channel : https://youtube.com/channel/UChVky9HwaivYVdQRMCrM9Ig
-║
+
+╠➥ instagram: https://instagram.com/__fidha.fathima._?igshid=fxepqajvqd9p
+
 ╠═〘 Thanks To 〙 ═
 ╠➥ ᴍʀ.ʀᴀᴠᴀɴᴀɴ ™ 
 ╠➥ ™ ɪɴᴅᴏɴᴇsɪᴀ
@@ -24,14 +22,14 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
              ʟᴏʀᴅ ᴏsɪʀɪs
 ╠➥ 
 ║
-╠═〘 ബോട്ട്  〙 ═
+╠═〘 Fidha Fathima  〙 ═
 ╠➥ MAKE GROUP ADMIN 
 ╠➥ TURN ON YOUR DATA
-╠➥ CONTACT : wa.me//+919048410619
+╠➥ CONTACT : wa.me//+919495528065
 ║
-║>Request? wa.me//+919048410619
+║>Request? wa.me//+919495528065
 ║
-╠═〘 കണ്ണാപി 2.0 〙 ═
+╠═〘Fidha Fathima〙 ═
 `.trim(), m)
 }
 handler.command = /^(info)$/i
