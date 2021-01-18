@@ -32,8 +32,8 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
       .replace(/%week/g, week)
       .replace(/%date/g, date)
       .replace(/%time/g, time): `
-🤖 [കണ്ണാപി ബോട്ട് 2.0] 🤖
-Creator: ʀᴀɴᴊɪᴛʜ [ᴍʀ.ʀᴀᴠᴀɴᴀɴ]
+🧚🏻[Fidha Fathima]🧚🏻
+
 
 Hi, ${name} 👋
 Exp: ${exp}
@@ -98,19 +98,16 @@ How to Add XP:
 ╠➥ ${_p}mutechat (chat grup)
 ╠➥ ${_p}mutechat group
 ║
-╠═〘 ADVERTISEMENT 〙 ═
-╠➥ Instagram: https://instagram.com/__mr_ravanan?igshid=1pnrvego2ur69
-╠➥ YᴏᴜTᴜʙᴇ: https://youtube.com/c/MrRavanan
 ║
 ╠═〘 Info Bot 〙 ═
-╠➥ Name : കണ്ണാപി ബോട്ട് 2.0
+╠➥ Name :🧚🏻Fidha fathima🧚🏻
 ╠➥ Coded using * Nano * on Android \\ w Termux
-╠➥ Request? wa.me//+919048410619
+╠➥ Request? wa.me//+919495528065
 ╠═════
 ║ Advanced:
 ║  > return m
 ║
-╠═〘 കണ്ണാപി ബോട്ട് 2.0 〙═
+╠═〘 Fidha Fathima 〙═
 `.trim()
     conn.reply(m.chat, {...preview, text}, m)
   }
